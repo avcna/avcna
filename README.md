@@ -1,5 +1,4 @@
 ### 🧚‍♀️ Welcome to My Github 🧚‍♀️
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="30px"/>
 Hello, I'm Salsabila Dita Prasetya, majoring Informatics Engineering at Brawijaya University. I'm interested in front end technology and currently learning React Js.
 <br>
 <br>
