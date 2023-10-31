@@ -1,7 +1,7 @@
 ### 🧚‍♀️ Welcome to My Github 🧚‍♀️
 Hello, I'm Salsabila Dita Prasetya, majoring Informatics Engineering at Brawijaya University. I'm interested in front end technology and currently learning React Js.
-<br>
-
+<h3>Tech Stack 👩‍💻</h3>
+<hr>
 ![JavaScript](https://img.shields.io/badge/JavaScript-302c34?style=for-the-badge&logo=JavaScript&logoColor=f0dc1c)
 ![TypeScript](https://img.shields.io/badge/TypeScript-302c34?style=for-the-badge&logo=TypeScript&logoColor=3074c4)
 ![NodeJS](https://img.shields.io/badge/node.js-302c34?style=for-the-badge&logo=node.js&logoColor=5bac46)
