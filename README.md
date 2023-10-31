@@ -1,7 +1,11 @@
 ### 🧚‍♀️ Welcome to My Github 🧚‍♀️
 Hello, I'm Salsabila Dita Prasetya, majoring Informatics Engineering at Brawijaya University. I'm interested in front end technology and currently learning React Js.
 <br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-302c34?style=for-the-badge&logo=JavaScript&logoColor=f0dc1c)
+![TypeScript](https://img.shields.io/badge/TypeScript-302c34?style=for-the-badge&logo=TypeScript&logoColor=3074c4)
 ![React](https://img.shields.io/badge/React%20JS-302c34?style=for-the-badge&logo=React&logoColor=00d8ff)
+![Firebase](https://img.shields.io/badge/Firebase-302c34?style=for-the-badge&logo=Firebase&logoColor=f7c42a)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
 
