@@ -10,6 +10,7 @@ Tech Stack 👩‍💻
 ![Next JS](https://img.shields.io/badge/Next-302c34?style=for-the-badge&logo=next.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-302c34?style=for-the-badge&logo=Firebase&logoColor=f7c42a)
 <br>
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
 
 <!--
