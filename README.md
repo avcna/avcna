@@ -1,8 +1,12 @@
-### 🧚‍♀️ Welcome to My Github 🧚‍♀️
-Hello, I'm Salsabila Dita Prasetya, majoring Informatics Engineering at Brawijaya University. I'm interested in front end technology and currently learning React Js.
-
-Tech Stack 👩‍💻
+🧚‍♀️ Welcome to My Github 🧚‍♀️
 ------
+Hello, I'm Salsabila Dita Prasetya, a freshgraduate of Informatics Engineering at Brawijaya University. I am currently focused on creating efficient, scalable web applications and optimizing user experiences.
+
+### Tech Stack 👩‍💻
+------
+I am a passionate Front-End Developer with experience in various technologies, including:
+<br>
+<br>
 ![React](https://img.shields.io/badge/React%20JS-302c34?style=for-the-badge&logo=React&logoColor=00d8ff)
 ![Next JS](https://img.shields.io/badge/Next%20JS-302c34?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-302c34?style=for-the-badge&logo=JavaScript&logoColor=f0dc1c)
@@ -12,21 +16,14 @@ Tech Stack 👩‍💻
 ![Firebase](https://img.shields.io/badge/Firebase-302c34?style=for-the-badge&logo=Firebase&logoColor=f7c42a)
 ![Graphql](https://img.shields.io/badge/Graphql-302c34?style=for-the-badge&logo=Graphql&logoColor=purple)
 ![Postgresql](https://img.shields.io/badge/Postgresql-302c34?style=for-the-badge&logo=postgresql&logoColor=0064a5)
+
+Let's Connect! 🤝 
+------
+I am always open to exciting opportunities and collaborations. Feel free to reach out to me!
+- **Email:** salsabiladitaprasetya@gmail.com
+- **LinkedIn:** [Salsabila Dita Prasetya](https://www.linkedin.com/in/salsabila-dita-prasetya/)
+
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
 
-<!--
-**avcna/avcna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
