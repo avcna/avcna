@@ -16,13 +16,14 @@ I am a passionate Front-End Developer with experience in various technologies, i
 ![Firebase](https://img.shields.io/badge/Firebase-302c34?style=for-the-badge&logo=Firebase&logoColor=f7c42a)
 ![Graphql](https://img.shields.io/badge/Graphql-302c34?style=for-the-badge&logo=Graphql&logoColor=purple)
 ![Postgresql](https://img.shields.io/badge/Postgresql-302c34?style=for-the-badge&logo=postgresql&logoColor=0064a5)
+<br>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
 
 Let's Connect! 🤝 
 ------
 I am always open to exciting opportunities and collaborations. Feel free to reach out to me!
 - **Email:** salsabiladitaprasetya@gmail.com
 - **LinkedIn:** [Salsabila Dita Prasetya](https://www.linkedin.com/in/salsabila-dita-prasetya/)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
+
 
