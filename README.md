@@ -3,12 +3,15 @@ Hello, I'm Salsabila Dita Prasetya, majoring Informatics Engineering at Brawijay
 
 Tech Stack 👩‍💻
 ------
+![React](https://img.shields.io/badge/React%20JS-302c34?style=for-the-badge&logo=React&logoColor=00d8ff)
+![Next JS](https://img.shields.io/badge/Next%20JS-302c34?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-302c34?style=for-the-badge&logo=JavaScript&logoColor=f0dc1c)
 ![TypeScript](https://img.shields.io/badge/TypeScript-302c34?style=for-the-badge&logo=TypeScript&logoColor=3074c4)
-![NodeJS](https://img.shields.io/badge/node.js-302c34?style=for-the-badge&logo=node.js&logoColor=5bac46)
-![React](https://img.shields.io/badge/React%20JS-302c34?style=for-the-badge&logo=React&logoColor=00d8ff)
-![Next JS](https://img.shields.io/badge/Next-302c34?style=for-the-badge&logo=next.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-302c34?style=for-the-badge&logo=Express&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node-302c34?style=for-the-badge&logo=node.js&logoColor=5bac46)
 ![Firebase](https://img.shields.io/badge/Firebase-302c34?style=for-the-badge&logo=Firebase&logoColor=f7c42a)
+![Graphql](https://img.shields.io/badge/Graphql-302c34?style=for-the-badge&logo=Graphql&logoColor=purple)
+![Postgresql](https://img.shields.io/badge/Postgresql-302c34?style=for-the-badge&logo=postgresql&logoColor=0064a5)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
