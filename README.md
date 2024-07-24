@@ -22,7 +22,6 @@ Let's Connect! 🤝
 I am always open to exciting opportunities and collaborations. Feel free to reach out to me!
 - **Email:** salsabiladitaprasetya@gmail.com
 - **LinkedIn:** [Salsabila Dita Prasetya](https://www.linkedin.com/in/salsabila-dita-prasetya/)
-
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
