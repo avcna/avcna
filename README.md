@@ -19,6 +19,7 @@ I am a passionate Front-End Developer with experience in various technologies, i
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
+<img src="https://github.com/user-attachments/assets/31f5c0f8-a60e-4b8b-93a3-8c946cb588a4" height="165"/>
 
 Let's Connect! 🤝 
 ------
