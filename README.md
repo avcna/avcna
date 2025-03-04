@@ -1,29 +1,51 @@
-🧚‍♀️ Welcome to My Github 🧚‍♀️
-------
-Hello, I'm Salsabila Dita Prasetya, a freshgraduate of Informatics Engineering at Brawijaya University. I am currently focused on creating efficient, scalable web applications and optimizing user experiences.
+# 🌸✨ Welcome to My Little Dev Corner ✨🌸
 
-### Tech Stack 👩‍💻
-------
-I am a passionate Front-End Developer with experience in various technologies, including:
-<br>
-<br>
-![React](https://img.shields.io/badge/React%20JS-302c34?style=for-the-badge&logo=React&logoColor=00d8ff)
-![Next JS](https://img.shields.io/badge/Next%20JS-302c34?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-302c34?style=for-the-badge&logo=JavaScript&logoColor=f0dc1c)
-![TypeScript](https://img.shields.io/badge/TypeScript-302c34?style=for-the-badge&logo=TypeScript&logoColor=3074c4)
-![Express](https://img.shields.io/badge/Express-302c34?style=for-the-badge&logo=Express&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node-302c34?style=for-the-badge&logo=node.js&logoColor=5bac46)
-![Firebase](https://img.shields.io/badge/Firebase-302c34?style=for-the-badge&logo=Firebase&logoColor=f7c42a)
-![Graphql](https://img.shields.io/badge/Graphql-302c34?style=for-the-badge&logo=Graphql&logoColor=purple)
-![Postgresql](https://img.shields.io/badge/Postgresql-302c34?style=for-the-badge&logo=postgresql&logoColor=0064a5)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=omni)](https://github.com/avcna/github-readme-stats)
+Hi there! I'm **Salsabila Dita Prasetya** 🧚‍♀️  
+Freshgraduate dari **Teknik Informatika - Universitas Brawijaya** 🎓, dan saat ini aku lagi enjoy banget jadi **Frontend Developer**!  
 
-Let's Connect! 🤝 
-------
-I am always open to exciting opportunities and collaborations. Feel free to reach out to me!
-- **Email:** salsabiladitaprasetya@gmail.com
-- **LinkedIn:** [Salsabila Dita Prasetya](https://www.linkedin.com/in/salsabila-dita-prasetya/)
+I love turning **creative ideas** into **beautiful & functional websites**. Coding is my happy place 💻☕, especially when combined with cute UI and smooth UX! 💫
 
+---
+
+## 💖 My Tech Stack - My Magic Wand ✨
+
+Here are some of my favorite tools that help me sprinkle a little magic into my work:
+
+🌷 ![React](https://img.shields.io/badge/React-d681b1?style=for-the-badge&logo=React&logoColor=61DBFB)  
+🌷 ![Next JS](https://img.shields.io/badge/Next-d681b1?style=for-the-badge&logo=next.js&logoColor=000000)  
+🌷 ![Vue](https://img.shields.io/badge/Vue-d681b1?style=for-the-badge&logo=vue.js&logoColor=42b883)  
+🌷 ![JavaScript](https://img.shields.io/badge/JavaScript-d681b1?style=for-the-badge&logo=JavaScript&logoColor=f7df1e)  
+🌷 ![TypeScript](https://img.shields.io/badge/TypeScript-d681b1?style=for-the-badge&logo=TypeScript&logoColor=007acc)  
+🌷 ![Express](https://img.shields.io/badge/Express-d681b1?style=for-the-badge&logo=Express&logoColor=000000)  
+🌷 ![NodeJS](https://img.shields.io/badge/Node-d681b1?style=for-the-badge&logo=node.js&logoColor=339933)  
+🌷 ![Firebase](https://img.shields.io/badge/Firebase-d681b1?style=for-the-badge&logo=Firebase&logoColor=ffca28)  
+🌷 ![GraphQL](https://img.shields.io/badge/GraphQL-d681b1?style=for-the-badge&logo=GraphQL&logoColor=e535ab)  
+🌷 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-d681b1?style=for-the-badge&logo=PostgreSQL&logoColor=31648c)
+
+---
+
+## 📊 My Language Mix - Little Bit of Everything 🧸
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avcna&layout=compact&theme=tokyonight)](https://github.com/avcna/github-readme-stats)
+
+---
+
+## 💌 Let’s Be Friends! 🌷
+
+If you wanna **collab**, chat about **tech**, or just share your favorite aesthetic Pinterest board, hit me up! 💬✨
+
+🌸 **Email:** salsabiladitaprasetya@gmail.com  
+🌸 **LinkedIn:** [Salsabila Dita Prasetya](https://www.linkedin.com/in/salsabila-dita-prasetya/)
+
+---
+
+## 🌼 Random Fun Fact 🌼
+
+When I’m not coding, you can probably find me:
+- Trying new cafe for cute latte art ☕
+- Creating digital art & journaling 🎨
+- Curating my Pinterest board with dreamy vibes 🎀
+
+Thanks for visiting my profile!  
+🌟 Don’t forget to leave a star if you like my projects ✨⭐  
 
