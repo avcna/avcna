@@ -1,13 +1,13 @@
 # ✰ᵖ Welcome to My Little Dev Corner ✰ᵖ  
 
 Hi there! I'm **Salsabila Dita Prasetya** 𓆩❀𓆪  
-✨ Living my dream as a Frontend Developer, blending creativity and code into seamless web magic! 𖦹  
+🧚‍♀️ Living my dream as a Frontend Developer, blending creativity and code into seamless web magic! 𖦹  
 
 I love turning **creative ideas** into **beautiful & functional websites**. Coding is my happy place ✦, especially when combined with cute UI and smooth UX! ⋆⁎༄ ☁︎ ༄⁎⋆  
 
 ---
 
-## ✨ My Tech Stack - My Magic Wand ✨  
+## ⋆｡ﾟ☁︎｡⋆ My Tech Stack - My Magic Wand ⋆｡ﾟ☁︎｡⋆  
 
 Here are some of my favorite tools that help me sprinkle a little magic into my work:  
 
